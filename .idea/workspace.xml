@@ -11,9 +11,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4591858-af11-465d-95e9-1fde5aba92a0" name="Default Changelist" comment="v2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/food_data_provider.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/food_data_provider.exe" afterDir="false" />
+    <list default="true" id="a4591858-af11-465d-95e9-1fde5aba92a0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/food_data_provider.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/food_data_provider.dir/depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,8 +62,16 @@
       <option name="presentableId" value="Default" />
       <updated>1573689560679</updated>
       <workItem from="1573689561944" duration="5973000" />
-      <workItem from="1573733798219" duration="2955000" />
+      <workItem from="1573733798219" duration="3256000" />
     </task>
+    <task id="LOCAL-00001" summary="v2">
+      <created>1573762660963</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573762660963</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,5 +89,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="v2" />
   </component>
 </project>

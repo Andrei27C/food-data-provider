@@ -114,7 +114,6 @@ void readLine(char * line, char * name, double * price)
         i++;
     }
     name[i-1] = '\0';
-    printf("%s\n",name);
     i++;
     while(line[i]<='9' && line[i]>='0')
     {
