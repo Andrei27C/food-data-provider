@@ -99,25 +99,11 @@ int main() {
     free(prices);
     free(foods);
     free(noOfSpecifficFoods);
+    for(int i=0;i<noOfDrinks;i++)
+    {
+        free(drinks[i]);
+    }
     free(drinks);
-
+    free(drinksPrices);
     return 0;
-}
-
-void readLine(char * line, char * name, double * price)
-{
-    int i=0;
-    *price = 0;
-    while(line[i] != '(' && i<strlen(line))
-    {
-        name[i] = line[i];
-        i++;
-    }
-    name[i-1] = '\0';
-    i++;
-    while(line[i]<='9' && line[i]>='0')
-    {
-        *price = *price * 10 + (double)(line[i]-'0');
-        i++;
-    }
 }
