@@ -11,7 +11,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4591858-af11-465d-95e9-1fde5aba92a0" name="Default Changelist" comment="v1" />
+    <list default="true" id="a4591858-af11-465d-95e9-1fde5aba92a0" name="Default Changelist" comment="v2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/food_data_provider.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/food_data_provider.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573689560679</updated>
       <workItem from="1573689561944" duration="5973000" />
+      <workItem from="1573733798219" duration="2955000" />
     </task>
     <servers />
   </component>
@@ -70,7 +75,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
