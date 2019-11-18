@@ -1,0 +1,3 @@
+C:/Users/csatl/Documents/GitHub/food-data-provider/cmake-build-debug/CMakeFiles/food_data_provider.dir
+C:/Users/csatl/Documents/GitHub/food-data-provider/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/csatl/Documents/GitHub/food-data-provider/cmake-build-debug/CMakeFiles/rebuild_cache.dir
